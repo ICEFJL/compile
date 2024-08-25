@@ -1,0 +1,5 @@
+﻿  lex.cpp
+C:\Users\ICEFJL\Desktop\课程\编译原理\词法分析\lex.cpp(151,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  词法分析.vcxproj -> C:\Users\ICEFJL\Desktop\课程\编译原理\词法分析\x64\Debug\词法分析.exe

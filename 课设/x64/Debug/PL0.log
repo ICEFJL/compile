@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl.h(4,9): warning C4068: 未知的杂注“GCC”
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_code.h(101,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_code.h(115,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_code.h(129,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_code.h(146,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_code.h(157,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(81,55): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(83,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(88,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(154,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(180,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(184,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(231,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(235,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(238,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(245,48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(247,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(252,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_parse.h(256,58): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\pl_vm.h(200,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PL0.vcxproj -> C:\Users\ICEFJL\Desktop\课程\编译原理\PL0\x64\Debug\PL0.exe

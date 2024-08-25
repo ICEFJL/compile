@@ -1,0 +1,4 @@
+﻿  LR(0).cpp
+C:\Users\ICEFJL\Desktop\课程\编译原理\LR(0)\LR(0).cpp(273,13): warning C4101: “k”: 未引用的局部变量
+C:\Users\ICEFJL\Desktop\课程\编译原理\LR(0)\LR(0).cpp(448,10): warning C4101: “j”: 未引用的局部变量
+  LR(0).vcxproj -> C:\Users\ICEFJL\Desktop\课程\编译原理\LR(0)\x64\Debug\LR(0).exe

@@ -1,0 +1,4 @@
+first(A)={c,d,}
+first(B)={c,d,}
+first(E)={a,b,}
+first(S)={a,b,}

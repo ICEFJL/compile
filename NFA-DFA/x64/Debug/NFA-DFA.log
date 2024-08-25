@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\ICEFJL\Desktop\编译原理\NFA-DFA\源.cpp(96,8): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\ICEFJL\Desktop\编译原理\NFA-DFA\源.cpp(224,31): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\ICEFJL\Desktop\编译原理\NFA-DFA\源.cpp(308,31): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  NFA-DFA.vcxproj -> C:\Users\ICEFJL\Desktop\编译原理\NFA-DFA\x64\Debug\NFA-DFA.exe
